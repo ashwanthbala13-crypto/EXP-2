@@ -37,6 +37,7 @@ The ammeter and voltmeter readings are observed at no load condition.
 The ammeter and voltmeter readings are observed for different loads up to the rated current by closing the DPST switch 2.
 After tabulating all the readings the load is brought to its initial position.
 The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
+
 Tabulation for load Circuit Test
 
 <img width="577" height="312" alt="673352878-5bf1642b-9008-4295-920c-44f0cf783079" src="https://github.com/user-attachments/assets/092b4da0-8c3c-4098-b067-c2d479997cbf" />
