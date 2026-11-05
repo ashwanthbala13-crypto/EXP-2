@@ -37,7 +37,7 @@ The ammeter and voltmeter readings are observed at no load condition.
 The ammeter and voltmeter readings are observed for different loads up to the rated current by closing the DPST switch 2.
 After tabulating all the readings the load is brought to its initial position.
 The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
-Tabulation for Open Circuit Test
+Tabulation for load Circuit Test
 
 <img width="577" height="312" alt="673352878-5bf1642b-9008-4295-920c-44f0cf783079" src="https://github.com/user-attachments/assets/092b4da0-8c3c-4098-b067-c2d479997cbf" />
 
@@ -51,9 +51,9 @@ Calculation
 <img width="138" height="160" alt="673353373-c1cb8503-d758-433a-be90-d617116a26ee" src="https://github.com/user-attachments/assets/325bff59-0bf0-4655-8b1a-a6ce3c3f7e5b" />
 
 
-Magnetisation load Characteristics
+Magnetisation open Characteristics
 
-Tabulation for load Test
+Tabulation for open Test
 
 <img width="638" height="433" alt="673525807-c9ede5dd-cdf3-4045-a3cb-0d4af005f06f" src="https://github.com/user-attachments/assets/b2cda70a-cdda-428b-96d7-b350426b6f92" />
 
